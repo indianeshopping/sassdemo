@@ -1,0 +1,9 @@
+
+@import "variables.scss";
+@import "fonts.scss";
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  font-family:'Open Sans', sans-serif;
+  
+}
